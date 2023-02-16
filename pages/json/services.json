@@ -1,0 +1,62 @@
+[
+  {
+    "serId": 1,
+    "serviceIcon": "fa fa-desktop",
+    "serviceTitle": "Web Applications Testing",
+    "shortDescription": "A team of well organized and professional developers aim to build flawless desktop applications and softwares with meticulous coding and professional practices. We have delivered multiple desktop sofwares to different businesses and individual clients"
+  },
+  {
+    "serId": 2,
+    "serviceIcon": "fa fa-desktop",
+    "serviceTitle": "Desktop Applications Testing",
+    "shortDescription": "A team of well organized and professional developers aim to build flawless desktop applications and softwares with meticulous coding and professional practices. We have delivered multiple desktop sofwares to different businesses and individual clients"
+  },
+  {
+    "serId": 3,
+    "serviceIcon": "fa fa-desktop",
+    "serviceTitle": "Mobile Applications Testing",
+    "shortDescription": "A team of well organized and professional developers aim to build flawless desktop applications and softwares with meticulous coding and professional practices. We have delivered multiple desktop sofwares to different businesses and individual clients"
+  },
+  {
+    "serId": 4,
+    "serviceIcon": "fa fa-desktop",
+    "serviceTitle": "Automation Testing",
+    "shortDescription": "A team of well organized and professional developers aim to build flawless desktop applications and softwares with meticulous coding and professional practices. We have delivered multiple desktop sofwares to different businesses and individual clients"
+  },
+  {
+    "serId": 5,
+    "serviceIcon": "fa fa-desktop",
+    "serviceTitle": "Manual Testing",
+    "shortDescription": "A team of well organized and professional developers aim to build flawless desktop applications and softwares with meticulous coding and professional practices. We have delivered multiple desktop sofwares to different businesses and individual clients"
+  },
+  {
+    "serId": 6,
+    "serviceIcon": "fa fa-mobile",
+    "serviceTitle": "Process Management",
+    "shortDescription": "We have been working successfully with various clients on mobile app development. Our mobile team is committed to delivering the projects on timekeeping in view of all the quality aspects of the project. We are also responsible for the maintenance of different applications."
+  },
+  {
+    "serId": 7,
+    "serviceIcon": "fa fa-binoculars",
+    "serviceTitle": "Performance Testing",
+    "shortDescription": "We provide the best quality assurance services and software testing to our clients. We have the best team for quality testing of softwares of all kind and the team rarely misses any bug for production phases. We are keen in providing utter satisfaction to our clients."
+  },
+  {
+    "serId": 8,
+    "serviceIcon": "fa fa-server",
+    "serviceTitle": "Integration Testing",
+    "shortDescription": "We provide the best experience on server side with our best devops team. The team is working on latest technologies for better optimisation on server sides and managing the pipelines with utmost perfection. The team is keen on making things smoother and easy for the client."
+  },
+  {
+    "serId": 9,
+    "serviceIcon": "fa fa-product-hunt",
+    "serviceTitle": "E2E Testing",
+    "shortDescription": "Our designers have the ability to make elegant product designs and make the user experience even better. Our designs are in demand in the professional market. We make our own designs as well as the designs required by our clients. Our designers keep the clients satisfied with their creativity."
+  },
+  {
+    "serId": 10,
+    "serviceIcon": "fa fa-globe",
+    "serviceTitle": "Regression Testing ",
+    "shortDescription": "We offer the best digital marketing services to our clients and take their businesses graphs to the level where they become satisfied and happy. Our team works on latest techniques of digital marketing and provide services of digital marketing for all the digital platforms"
+  }
+]
